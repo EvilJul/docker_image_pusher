@@ -12,3 +12,4 @@ hoppscotch/hoppscotch
 infiniflow/ragflow
 martialbe/one-api
 dyrnq/open-webui
+budibase/budibase
