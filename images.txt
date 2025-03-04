@@ -9,7 +9,7 @@ mysql
 registry
 langgenius/dify-web
 hoppscotch/hoppscotch
-infiniflow/ragflow
+#infiniflow/ragflow
 martialbe/one-api
 dyrnq/open-webui
 budibase/budibase
