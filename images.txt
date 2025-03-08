@@ -9,12 +9,12 @@
 #registry
 #langgenius/dify-web
 #hoppscotch/hoppscotch
-#infiniflow/ragflow
+infiniflow/ragflow:v0.17.0
 #martialbe/one-api
 #dyrnq/open-webui
 #budibase/budibase
 #xinsodev/drawdb
 #postgres
-alpine:3.21.2
-alpine:3.19.6
-node:20.12.2
+#alpine:3.21.2
+#alpine:3.19.6
+#node:20.12.2
